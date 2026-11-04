@@ -1,10 +1,17 @@
 {
-  "seq": 54,
   "title": "AI-powered Member Service Assistant and Fraud detection platform",
-  "slug": "ai-powered-member-service-assistant-and-fraud-detection",
+  "old_slug": "ai-powered-member-service-assistant-and-fraud-detection",
+  "slug": "member-service-ai-fraud-assist",
   "folder": "Ai_Powered_Member_Service_Assistant_And_Fraud",
   "kind": "ai",
-  "body_words": 247,
+  "body_words": 315,
+  "source": "MICT Industry",
   "project_id": "Project 13",
-  "source": "MICT Industry"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
