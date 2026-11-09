@@ -1,9 +1,9 @@
 id,text,label
-1,Urgent invoice payment wire now,risk
-2,Weekly status update attached,benign
-3,Reset your password phishing page,risk
-4,Meeting notes from standup,benign
-5,Fraud alert verify account,risk
-6,HR policy acknowledgement,benign
-7,Malware scan clean report,benign
-8,Suspicious login from abroad,risk
+1,Urgent member-service-ai-fraud-assist alert require immediate action,risk
+2,Weekly member-service-ai-fraud-assist status looks normal,benign
+3,Suspicious member-service-ai-fraud-assist anomaly detected please verify,risk
+4,Routine member-service-ai-fraud-assist maintenance completed,benign
+5,Fraud pattern in member-service-ai-fraud-assist submissions,risk
+6,Training notes for member-service-ai-fraud-assist operators,benign
+7,Phishing attempt referencing member-service-ai-fraud-assist,risk
+8,All clear report for member-service-ai-fraud-assist queue,benign
